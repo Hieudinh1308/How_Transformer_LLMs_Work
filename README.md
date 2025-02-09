@@ -3,6 +3,7 @@
 
 * Understand recent transformer improvements to the attention mechanism such as KV cache, multi-query attention, grouped query attention, and sparse attention.
 
-* Compare tokenization strategies used in modern LLMS and explore transformers in the Hugging Face Transformers library.
-![1](1.png)
-![2](2.png)
+* Compare tokenization strategies used in modern LLMS and explore transformers in the Hugging Face Transformers library. \
+  
+![1](image/1.png)
+![2](image/2.png)
